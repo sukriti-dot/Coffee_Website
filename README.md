@@ -1,1 +1,1 @@
-# Coffee_Website
+A beginner-friendly, fully responsive coffee shop website built with HTML, CSS, and JavaScript.The website includes six sections: Hero, About, Menu, Testimonials, Gallery, and Contact, along with a navigation menu and footer. 
